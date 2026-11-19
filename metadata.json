@@ -1,0 +1,6 @@
+{
+  "name": "Robo Sprint",
+  "description": "Jogo multiplayer 2D de plataforma com robôs em fases procedurais infinitas, progressivamente mais longas e verticais, com itens táticos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
